@@ -1,0 +1,11 @@
+1. Place the switecheroo folder in the active theme folder.
+
+2. Copy paste the the following files located in the 'wordpress' folder
+- page-switcheroo.php
+- header-switcheroo.php
+
+3. Copy paste the functions from add-to-functions.php to your active theme 'functions.php'
+
+4. Create, in wordpress, a new page and select the 'switcheroo' template and leave the rest as it is.
+
+5. Have fun!
